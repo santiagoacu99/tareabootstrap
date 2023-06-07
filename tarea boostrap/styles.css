@@ -1,0 +1,9 @@
+body{
+    margin-top: 1rem;
+}
+.cardConteiner{
+    margin-top: 2rem ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
